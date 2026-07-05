@@ -1,6 +1,6 @@
-# Project Claude Code Contract
+# Project Agent Contract
 
-This file is a repo-local override for Claude Code. Keep it short, concrete, and specific to this project.
+This file is a repo-local override for Codex. Keep it short, concrete, and specific to this project.
 
 ## Read First
 
@@ -27,9 +27,9 @@ Fill these in before relying on this template for unattended work.
 
 ## Useful Global Skills
 
-- `/starter-review` for reviewing changes.
-- `/implement` for scoped implementation work.
-- `/tdd` for test-first changes.
-- `/diagnosing-bugs` for failures and regressions.
-- `/grill-me` for sharpening a plan.
-- `/improve-codebase-architecture` for architecture friction.
+- `$starter-review` for reviewing changes.
+- `$implement` for scoped implementation work.
+- `$tdd` for test-first changes.
+- `$diagnosing-bugs` for failures and regressions.
+- `$grill-me` for sharpening a plan.
+- `$improve-codebase-architecture` for architecture friction.
